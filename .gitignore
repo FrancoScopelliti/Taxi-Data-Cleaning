@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# RDS data files
+# Data files
 *.rds
+*.csv
